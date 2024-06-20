@@ -2,6 +2,7 @@
 
 # Prerequisites
 Node.js and npm installed on your machine.
+Note: Instead of sqlite database used postgresql because faced many issue with my node.js and npm configuration everything got messed up while exploring new things few days back, need to troubleshoot with my whole system configuration. 
 PostgreSQL database set up with credentials (DATABASE_NAME, DATABASE_USER, DATABASE_PASSWORD, DATABASE_HOST, DATABASE_PORT) configured in a .env file.
 The server will start running on http://localhost:3000
 # API Documentation
