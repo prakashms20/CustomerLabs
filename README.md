@@ -43,3 +43,5 @@ Params: destinationId - ID of the destination to delete.
 URL: POST /server/incoming_data
 Headers: CL-X-TOKEN - App secret token.
 Body: JSON object containing data to be processed.
+
+Any clarification kindly contact via : iammsprakash@gmail.com
